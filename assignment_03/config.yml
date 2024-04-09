@@ -1,0 +1,21 @@
+---
+
+"COURSE": "CAU_DRALG_2024"
+"ASSIGNMENT": "ASSIGNMENT_03"
+
+"ID": "20001234"
+"FILES":
+    - "**your-path-to-directory**/cau-dralg-2024/assignment_03/array_utils.py" 
+"PROBLEMS": 
+    - "PROBLEM_01A"
+    - "PROBLEM_01B"
+    - "PROBLEM_01C"
+    - "PROBLEM_01D"
+    - "PROBLEM_01E"
+
+    - "PROBLEM_02A"
+    - "PROBLEM_02B"
+    - "PROBLEM_02C"
+    - "PROBLEM_02D"
+    - "PROBLEM_02E"
+    
