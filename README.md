@@ -4,3 +4,5 @@
 - [과제#3: 배열 함수 구현](https://github.com/bluedragonclub/cau-dralg-2024/tree/main/assignment_03)
 - [과제#4: 작업내역 관리 구현](https://github.com/bluedragonclub/cau-dralg-2024/tree/main/assignment_04)
 - [과제#5: 단일연결리스트 구현](https://github.com/bluedragonclub/cau-dralg-2024/tree/main/assignment_05)
+- [과제#6: 시간 복잡도 분석](https://github.com/bluedragonclub/cau-dralg-2024/tree/main/assignment_06)
+- [과제#7: 정렬 함수 사용](https://github.com/bluedragonclub/cau-dralg-2024/tree/main/assignment_07)
