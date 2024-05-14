@@ -1,0 +1,13 @@
+---
+
+"COURSE": "CAU_DRALG_2024"
+"ASSIGNMENT": "ASSIGNMENT_07"
+
+"ID": "20001234"
+"FILES":
+    - "**your-path-to-directory**/cau-dralg-2024/assignment_07/sort.py" 
+"PROBLEMS": 
+    - "PROBLEM_01"
+    - "PROBLEM_02"
+    - "PROBLEM_03"
+    - "PROBLEM_04"
